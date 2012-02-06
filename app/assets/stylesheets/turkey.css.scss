@@ -1,0 +1,252 @@
+html {
+    background-color: white;       
+}
+
+header h1 {
+    margin-top: 40px;
+    margin: 0 auto;
+    width: 970px;
+    height: 120px;
+}
+
+#container ul  { 
+    border-bottom: 2px solid #000000;
+    font-family: ubuntu;
+    List-style: none;
+    margin: 0 auto;    
+    text-decoration: none;       
+    width: 750px;
+}
+
+#container li {
+    float: left;
+    padding: 20px;    
+}
+
+#container a {
+    color: black;
+    font-family: Ubuntu;       
+    font-size: 18px;
+    font-weight: none;
+    text-decoration: none;
+    width: 1200px;
+}
+
+#container a:hover {
+    color: #f91b06;
+}
+
+#articlecontainer {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+article {
+    clear: both;
+    margin: 0 auto;
+}
+
+article h1 {
+    clear: both;
+    color: #5E2612; 
+    font-family: Salsa, sans serif;
+    font-size: 100px;
+    margin: 0 auto;       
+    text-align: center;  
+  }
+
+article h2 {
+    padding-top: 10px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: ubuntu condensed, sans serif;
+    text-align: center;
+    color: black;
+    width: 200px;
+}
+
+blockquote {
+    color: #361104;
+    font-family: ubuntu condensed, sans serif;
+    font-size: 35px;
+    margin: 0 auto;
+    padding-top: 30px;   
+    text-align: left;    
+    width: 960px;
+}  
+
+h3 {
+    color: #000000;
+    font-family: Ubuntu condensed;
+    font-size: 20px;
+    margin: 0 auto;
+    padding-top: 5px;  
+    text-align: right;
+}
+
+
+#columnleft {
+    border-top: 1px solid #000000;
+    color: #5E2612;
+    float: left;    
+    font-size: 18px;
+    font-family: garamond;    
+    margin-left: 100px; 
+    margin-top: 25px;    
+    width: 40%;
+}
+
+#columnright {
+    border-bottom: 1px solid #000000; 
+    border-top: 1px solid #000000;
+    color: #5E2612;
+    float: left;   
+    font-size: 18px;
+    font-family: garamond;    
+    margin-right: 100px; 
+    margin-top: 25px;   
+    width: 40%;
+    padding-left: 20px;
+}
+
+ul {
+    color: #5e2612;
+    font-size: 18px;
+ }
+   
+#footerbox  {
+    background-color: #4d0000;
+    border-top: 2px dotted #bebebe;
+    clear: both;
+    height: 300px;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+#footerleft {
+    border-right: dotted 2px #bebebe;
+    width: 450px;
+    float: left;
+    margin: 0 auto;
+}
+
+#subfooterleft {
+    width: 450px;
+    height: 200px;
+    border-bottom: dotted 1px #ffffff;
+}
+
+#footerleft h1 {
+    font-size: 18px;
+    color: #f80023;
+    font-family: ubuntu condensed;
+    padding-left: 10px;
+    
+}
+
+#footerleft a {
+    float: left;
+    padding-left: 10px;
+}
+
+#footerleft p {
+    float: left;
+    width: 300px;
+    color: #ffffff;
+    padding-left: 10px;
+    font-family: garamond;    
+}
+
+#footerleft h2 {
+    float: left;
+    width: 90px;
+    padding-right: 10px;
+}
+
+#footerleft h3 {
+    clear: both;
+    font-size: 18px;     
+    float: left;
+    color: #f80023;
+    font-family: ubuntu condensed;
+    padding-left: 15px;
+    padding-bottom: 0px;
+
+}
+#socialbox {
+    width: 500px;
+    height: 150px;
+    float: left;
+} 
+
+#footerright {
+    width: 700px;
+    float: left;
+    margin: 0 auto;
+    padding-left: 10px;
+}
+
+#footerright h2{
+    float: left;
+    padding-right: 20px;
+    width: 90px;
+    height: 136px;
+    padding-bottom: 0px;
+
+}
+
+#footerright h1{
+    font-size: 18px;
+    color: #f80023;
+    font-family: ubuntu condensed;
+    padding-left: 5px;
+}
+
+#footerright p{
+    font-size: 16px;
+    color: #ffffff;
+    font-family: garamond;
+    width: 500px;
+    float: left;
+}
+
+.social {
+    clear: both;
+    float: left;
+    width: 500px; 
+    text-decoration: none;
+    list-style: none;
+    margin-top: -10px;
+}
+
+.social ul {
+    text-decoration: none;    
+    margin-top: -12px;
+}
+
+.social li {
+    float: left;
+    font-family: ubuntu condensed;
+    font-size: 14px;
+    list-syle: none;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+.social a:hover {
+    color: #f91b06;
+}
+
+.social a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    color: black;
+    clear: both;
+    font-family: ubuntu condensed;
+    font-size: 12px;
+}
+    
+
